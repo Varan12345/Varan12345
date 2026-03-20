@@ -1,27 +1,28 @@
 # Hi 👋, I'm Varan Singh  
 
 💻 B.Tech Computer Science Student (3rd Year)  
-📊 Aspiring Data Analyst | Machine Learning Learner  
-🚀 Focused on building strong fundamentals in DSA & ML  
+📊 Aspiring Data Analyst | Machine Learning Enthusiast  
+🚀 Focused on building strong fundamentals in Data Structures, Problem Solving, and Machine Learning  
 
 ---
 
 ## 🧠 About Me
-- Currently in my **learning phase**, focusing on core concepts  
-- Practicing **Data Structures & Algorithms (Java/C++)**  
-- Exploring **Data Analysis & Machine Learning**  
-- Believe in **learning deeply before building projects**  
+- Currently strengthening core concepts in **Data Structures & Algorithms (Java/C++)**  
+- Building a solid foundation in **Data Analysis and Machine Learning**  
+- Focused on **understanding concepts deeply** before implementing real-world projects  
+- Consistently improving **problem-solving and analytical thinking**  
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skills
 - **Languages:** Python, Java, C++  
-- **Libraries:** NumPy, Pandas, Matplotlib  
-- **Core Areas:** DSA, Problem Solving, ML Basics  
+- **Libraries/Tools:** NumPy, Pandas, Matplotlib  
+- **Core Areas:** Data Structures, Problem Solving, Machine Learning Basics  
 
 ---
 
 ## 📈 Current Focus
-DSA (Java)        ███████░░░
-Machine Learning  █████░░░░
-Python            ███████░░░
+```text
+Data Structures (Java)   ███████░░░
+Machine Learning         █████░░░░
+Python                   ███████░░░
