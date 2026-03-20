@@ -22,7 +22,6 @@
 ---
 
 ## 📈 Current Focus
-```text
-DSA (Java)        █████████░░░ 80%
-Machine Learning  ██████░░░░░ 60%
-Python            ████████░░░ 75%
+DSA (Java)        ███████░░░
+Machine Learning  █████░░░░
+Python            ███████░░░
