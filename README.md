@@ -1,6 +1,6 @@
 # Hi 👋, I'm Varan Singh  
 
-💻 B.Tech Computer Science Student(DS)(3rd Year)  
+💻 B.Tech Computer Science Student(Data Science) (3rd Year)  
 📊 Aspiring Data Analyst | Machine Learning Enthusiast  
 🚀 Focused on building strong fundamentals in Data Structures, Problem Solving, and Machine Learning  
 
